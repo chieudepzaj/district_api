@@ -30,7 +30,7 @@
 			"deaths": "21",
 			"deltaconfirmed": "829",
 			"deltadeaths": "0",
-			"deltarecovered": "480",
+			"deltarecovered": "48",
 			"lastupdatedtime": "08/07/2021 09:23:15",
 			"recovered": "1154",
 			"statecode": "SG"
@@ -41,7 +41,7 @@
 			"deaths": "8",
 			"deltaconfirmed": "9",
 			"deltadeaths": "0",
-			"deltarecovered": "480",
+			"deltarecovered": "10",
 			"lastupdatedtime": "08/07/2021 09:23:15",
 			"recovered": "4767",
 			"statecode": "BG"
@@ -52,7 +52,7 @@
 			"deaths": "9",
 			"deltaconfirmed": "10",
 			"deltadeaths": "0",
-			"deltarecovered": "480",
+			"deltarecovered": "27",
 			"lastupdatedtime": "08/07/2021 09:23:15",
 			"recovered": "1494",
 			"statecode": "BN"
@@ -63,7 +63,7 @@
 			"deaths": "0",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
-			"deltarecovered": "480",
+			"deltarecovered": "39",
 			"lastupdatedtime": "08/07/2021 09:23:15",
 			"recovered": "818",
 			"statecode": "HD"
@@ -74,7 +74,7 @@
 			"deaths": "19",
 			"deltaconfirmed": "2",
 			"deltadeaths": "0",
-			"deltarecovered": "480",
+			"deltarecovered": "42",
 			"lastupdatedtime": "08/07/2021 09:23:15",
 			"recovered": "711",
 			"statecode": "HN"
