@@ -1,59 +1,59 @@
 {
 "cases_time_series": [
 	    	{
-      "dailyconfirmed": "1026",
-      "dailydeceased": "0",
-      "dailyrecovered": "393",
+      "dailyconfirmed": "1616",
+      "dailydeceased": "5",
+      "dailyrecovered": "34",
       "date": "9 Jul 2021",
       "dateymd": "2021-07-09",
-      "totalconfirmed": "25419",
-      "totaldeceased": "105",
-      "totalrecovered": "8950"
+      "totalconfirmed": "26010",
+      "totaldeceased": "110",
+      "totalrecovered": "8984"
     		}
   ],
 "statewise": [
 		{
-			"active": "15078",
-			"confirmed": "24810",
-			"deaths": "105",
-			"deltaconfirmed": "1026",
-			"deltadeaths": "0",
-			"deltarecovered": "393",
+			"active": "16911",
+			"confirmed": "26010",
+			"deaths": "110",
+			"deltaconfirmed": "1616",
+			"deltadeaths": "5",
+			"deltarecovered": "34",
 			"lastupdatedtime": "09/07/2021 09:23:15",
-			"recovered": "8950",
+			"recovered": "8984",
 			"state": "Total",
 			"statecode": "TT"
 		},
 		{
-			"active": "9040",
-			"confirmed": "10216",
-			"deaths": "21",
-			"deltaconfirmed": "829",
-			"deltadeaths": "0",
-			"deltarecovered": "48",
-			"lastupdatedtime": "08/07/2021 09:23:15",
-			"recovered": "1154",
+			"active": "9437",
+			"confirmed": "10616",
+			"deaths": "23",
+			"deltaconfirmed": "1229",
+			"deltadeaths": "1",
+			"deltarecovered": "1",
+			"lastupdatedtime": "09/07/2021 09:23:15",
+			"recovered": "1155",
 			"statecode": "SG"
 		},
 		{
 			"active": "930",
 			"confirmed": "5705",
 			"deaths": "8",
-			"deltaconfirmed": "9",
+			"deltaconfirmed": "10",
 			"deltadeaths": "0",
 			"deltarecovered": "10",
-			"lastupdatedtime": "08/07/2021 09:23:15",
+			"lastupdatedtime": "09/07/2021 09:23:15",
 			"recovered": "4767",
 			"statecode": "BG"
 		},
 		{
-			"active": "157",
-			"confirmed": "1660",
+			"active": "162",
+			"confirmed": "1665",
 			"deaths": "9",
-			"deltaconfirmed": "10",
+			"deltaconfirmed": "15",
 			"deltadeaths": "0",
-			"deltarecovered": "27",
-			"lastupdatedtime": "08/07/2021 09:23:15",
+			"deltarecovered": "0",
+			"lastupdatedtime": "09/07/2021 09:23:15",
 			"recovered": "1494",
 			"statecode": "BN"
 		},
@@ -63,8 +63,8 @@
 			"deaths": "0",
 			"deltaconfirmed": "0",
 			"deltadeaths": "0",
-			"deltarecovered": "39",
-			"lastupdatedtime": "08/07/2021 09:23:15",
+			"deltarecovered": "0",
+			"lastupdatedtime": "09/07/2021 09:23:15",
 			"recovered": "818",
 			"statecode": "HD"
 	},
@@ -75,7 +75,7 @@
 			"deltaconfirmed": "2",
 			"deltadeaths": "0",
 			"deltarecovered": "42",
-			"lastupdatedtime": "08/07/2021 09:23:15",
+			"lastupdatedtime": "09/07/2021 09:23:15",
 			"recovered": "711",
 			"statecode": "HN"
 		}
